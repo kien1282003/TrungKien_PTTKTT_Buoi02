@@ -1,0 +1,7 @@
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Binary Search\bin\Debug\Binary Search.exe.config
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Binary Search\bin\Debug\Binary Search.exe
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Binary Search\bin\Debug\Binary Search.pdb
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Binary Search\obj\Debug\Binary Search.exe
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Binary Search\obj\Debug\Binary Search.pdb

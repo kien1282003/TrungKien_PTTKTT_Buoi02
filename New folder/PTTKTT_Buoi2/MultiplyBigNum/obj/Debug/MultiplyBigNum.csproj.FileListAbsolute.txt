@@ -1,0 +1,7 @@
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\MultiplyBigNum\bin\Debug\MultiplyBigNum.exe.config
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\MultiplyBigNum\bin\Debug\MultiplyBigNum.exe
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\MultiplyBigNum\bin\Debug\MultiplyBigNum.pdb
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\MultiplyBigNum\obj\Debug\MultiplyBigNum.csproj.AssemblyReference.cache
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\MultiplyBigNum\obj\Debug\MultiplyBigNum.csproj.CoreCompileInputs.cache
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\MultiplyBigNum\obj\Debug\MultiplyBigNum.exe
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\MultiplyBigNum\obj\Debug\MultiplyBigNum.pdb

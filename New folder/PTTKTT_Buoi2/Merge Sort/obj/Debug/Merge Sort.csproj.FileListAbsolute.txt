@@ -1,0 +1,7 @@
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Merge Sort\bin\Debug\Merge Sort.exe.config
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Merge Sort\bin\Debug\Merge Sort.exe
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Merge Sort\bin\Debug\Merge Sort.pdb
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Merge Sort\obj\Debug\Merge Sort.csproj.AssemblyReference.cache
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Merge Sort\obj\Debug\Merge Sort.csproj.CoreCompileInputs.cache
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Merge Sort\obj\Debug\Merge Sort.exe
+C:\PTTKTT\2033211363_NguyenTrungKien_Buoi02\TrungKien_PTTKTT_Buoi02\PTTKTT_Buoi2\Merge Sort\obj\Debug\Merge Sort.pdb

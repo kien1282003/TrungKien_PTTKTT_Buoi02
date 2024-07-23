@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB081B8-9BB0-4D6F-B95B-B2091E586AF2}|MultiplyBigNum\\MultiplyBigNum.csproj|c:\\pttktt\\new folder\\pttktt_buoi2\\multiplybignum\\multiplybignum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB081B8-9BB0-4D6F-B95B-B2091E586AF2}|MultiplyBigNum\\MultiplyBigNum.csproj|solutionrelative:multiplybignum\\multiplybignum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4395F3-05FE-4295-B2B8-BB6F6ED75817}|Merge Sort\\Merge Sort.csproj|C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\merge sort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4395F3-05FE-4295-B2B8-BB6F6ED75817}|Merge Sort\\Merge Sort.csproj|solutionrelative:merge sort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD69C55-33CA-4156-99B2-715062407D13}|Binary Search\\Binary Search.csproj|C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\binary search\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD69C55-33CA-4156-99B2-715062407D13}|Binary Search\\Binary Search.csproj|solutionrelative:binary search\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\Merge Sort\\MergeSort.cs",
+              "RelativeDocumentMoniker": "Merge Sort\\MergeSort.cs",
+              "ToolTip": "C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\Merge Sort\\MergeSort.cs",
+              "RelativeToolTip": "Merge Sort\\MergeSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:16:17.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiplyBigNum.cs",
+              "DocumentMoniker": "C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\MultiplyBigNum\\MultiplyBigNum.cs",
+              "RelativeDocumentMoniker": "MultiplyBigNum\\MultiplyBigNum.cs",
+              "ToolTip": "C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\MultiplyBigNum\\MultiplyBigNum.cs",
+              "RelativeToolTip": "MultiplyBigNum\\MultiplyBigNum.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAMwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:54:20.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\Binary Search\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "Binary Search\\BinarySearch.cs",
+              "ToolTip": "C:\\PTTKTT\\New folder\\PTTKTT_Buoi2\\Binary Search\\BinarySearch.cs",
+              "RelativeToolTip": "Binary Search\\BinarySearch.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:12:42.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
